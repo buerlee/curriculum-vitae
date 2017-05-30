@@ -85,10 +85,10 @@
 
 % defines one's email
 % usage: \email{<email>}
-\newcommand{\email}[1]{\faEnvelope\ \href{mailto:#1}{\rmfamily{#1}}}
+\newcommand{\email}[1]{\faEnvelope\ \rmfamily{\href{mailto:#1}{#1}}}
 % defines one's phone
 % usage: \phone{<phone>}
-\newcommand{\phone}[1]{\faPhone\ {\rmfamily{#1}}}
+\newcommand{\phone}[1]{\faPhone\ \rmfamily{{#1}}}
 % defines one's linkedin
 % usage: \linkedin{<linkedin>}
 \newcommand{\linkedin}[2][]{\faLinkedin\ 
@@ -98,15 +98,15 @@
 % defines one's GitHub
 % usage: \github{<github>}
 \newcommand{\github}[2][]{\faGithub\ 
-  \ifthenelse{\isempty{\rmfamily{#1}}}%
-    {\href{\rmfamily{#2}}{\rmfamily{#2}}}
-    {\href{\rmfamily{#2}}{\rmfamily{#1}}}}
+  \ifthenelse{\isempty{#1}}%
+    {\rmfamily{\href{#2}{#2}}}
+    {\rmfamily{\href{#2}{#1}}}}
 % defines one's homepage
 % usage: \homepage{<homepage>}
 \newcommand{\homepage}[2][]{\faHome\ 
-  \ifthenelse{\isempty{\rmfamily{#1}}}%
-    {\href{\rmfamily{#2}}{\rmfamily{#2}}}
-    {\href{\rmfamily{#2}}{\rmfamily{#1}}}}
+  \ifthenelse{\isempty{#1}}%
+    {\rmfamily{\href{#2}{#2}}}
+    {\rmfamily{\href{#2}{#1}}}}
 
 % defines progress bar with text
 % usage: \pbar[3][width]{Text}{percentage}
