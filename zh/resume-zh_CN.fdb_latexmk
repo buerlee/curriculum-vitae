@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1496122628 "resume-zh_CN.tex" "resume-zh_CN.pdf" "resume-zh_CN" 1496122631
+["pdflatex"] 1496139084 "resume-zh_CN.tex" "resume-zh_CN.pdf" "resume-zh_CN" 1496139087
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -150,7 +150,7 @@
   "cv/extracurricular.tex" 1496108382 671 2d80d52bed771bcd179bb0f6445244cb ""
   "cv/honors.tex" 1496105280 543 867427407d73970b921daddaa4c8fc13 ""
   "cv/patents.tex" 1496108262 219 7555886693c03d86af5119a335034ee7 ""
-  "cv/projects.tex" 1496122627 2739 e20034866207e1643fbf30fd417d66d1 ""
+  "cv/projects.tex" 1496139072 2732 6758c7cc61bdd4c977d02e1aa62ab9f6 ""
   "cv/publications.tex" 1496107965 344 94a67c55da113a4531b3ef499f415ad0 ""
   "cv/research.tex" 1496109816 828 3c7ce8045f12fe93bd426e793bdcee8d ""
   "cv/skills.tex" 1496108379 215 543d30dca86958c96a7ba7983708ad30 ""
@@ -159,13 +159,13 @@
   "fontawesomesymbols-generic.tex" 1475881798 33234 a3a3e12d9315f667a3e24bd6b3d6058b ""
   "fontawesomesymbols-xeluatex.tex" 1475881798 45782 7166bfdff927bad3f81e302543d76c90 ""
   "linespacing_fix.sty" 1475881798 928 d7b2ee806f776f17eb0e9f4ff455a31b ""
-  "resume-zh_CN.aux" 1496122630 3877 fc7520a400230d02ca7df3a8161af5ef ""
-  "resume-zh_CN.out" 1496122631 1515 9d4e9034263dc6f52f0edd4c0a92520e ""
-  "resume-zh_CN.tex" 1496109473 935 1bf3c500db74b35eacfd9b1c519a1993 ""
+  "resume-zh_CN.aux" 1496139087 3870 91028fdf170fba062d25706e15daa143 ""
+  "resume-zh_CN.out" 1496139087 1515 9d4e9034263dc6f52f0edd4c0a92520e ""
+  "resume-zh_CN.tex" 1496137663 934 b3b9ce971deb93d33f7b7806c961d06c ""
   "resume.cls" 1496121671 3441 b9fb5be333a1ba64b4f67f88f0f7e5a5 ""
   "zh_CN-Adobefonts_external.sty" 1475881798 1117 abbefe17b918f7a0071a2b71f38c0b7c ""
   (generated)
   "resume-zh_CN.out"
-  "resume-zh_CN.pdf"
-  "resume-zh_CN.aux"
   "resume-zh_CN.log"
+  "resume-zh_CN.aux"
+  "resume-zh_CN.pdf"
