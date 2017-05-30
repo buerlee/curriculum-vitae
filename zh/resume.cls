@@ -73,7 +73,7 @@
 }
 
 \newcommand{\name}[1]{
-  \centerline{\Huge\scshape{#1}}
+  \centerline{\Huge\textit{#1}}
   \vspace{1.25ex}
 }
 
@@ -85,28 +85,28 @@
 
 % defines one's email
 % usage: \email{<email>}
-\newcommand{\email}[1]{\faEnvelope\ \href{mailto:#1}{#1}}
+\newcommand{\email}[1]{\faEnvelope\ \href{mailto:#1}{\rmfamily{#1}}}
 % defines one's phone
 % usage: \phone{<phone>}
-\newcommand{\phone}[1]{\faPhone\ {#1}}
+\newcommand{\phone}[1]{\faPhone\ {\rmfamily{#1}}}
 % defines one's linkedin
 % usage: \linkedin{<linkedin>}
 \newcommand{\linkedin}[2][]{\faLinkedin\ 
-  \ifthenelse{\isempty{#1}}%
+  \ifthenelse{\isempty{\rmfamily{#1}}}%
     {\href{#2}{#2}}
     {\href{#2}{#1}}}
 % defines one's GitHub
 % usage: \github{<github>}
 \newcommand{\github}[2][]{\faGithub\ 
-  \ifthenelse{\isempty{#1}}%
-    {\href{#2}{#2}}
-    {\href{#2}{#1}}}
+  \ifthenelse{\isempty{\rmfamily{#1}}}%
+    {\href{\rmfamily{#2}}{\rmfamily{#2}}}
+    {\href{\rmfamily{#2}}{\rmfamily{#1}}}}
 % defines one's homepage
 % usage: \homepage{<homepage>}
-\newcommand{\homepage}[2][]{\faLink\ 
-  \ifthenelse{\isempty{#1}}%
-    {\href{#2}{#2}}
-    {\href{#2}{#1}}}
+\newcommand{\homepage}[2][]{\faHome\ 
+  \ifthenelse{\isempty{\rmfamily{#1}}}%
+    {\href{\rmfamily{#2}}{\rmfamily{#2}}}
+    {\href{\rmfamily{#2}}{\rmfamily{#1}}}}
 
 % defines progress bar with text
 % usage: \pbar[3][width]{Text}{percentage}
@@ -115,7 +115,7 @@
 }
 
 \newcommand{\basicInfo}[1]{
-  \centerline{\sffamily\large{#1}}
+  \centerline{\sffamily{#1}}
   \vspace{1.5ex}
 }
 

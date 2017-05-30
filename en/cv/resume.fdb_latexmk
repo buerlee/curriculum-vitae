@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1496041657 "resume.tex" "resume.pdf" "resume" 1496041659
+["pdflatex"] 1496110145 "resume.tex" "resume.pdf" "resume" 1496110147
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -80,20 +80,20 @@
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
   "awesome-cv.cls" 1470706146 23831 b960755942839748bb5fcf46f42240f3 ""
   "cv/education.tex" 1495933068 1723 0bc9d11baf07ecec18af3df3263dc786 ""
-  "cv/extracurricular.tex" 1495898779 2415 7c0d3e2fdf9b44ec772819041d0c0f17 ""
+  "cv/extracurricular.tex" 1496107254 2399 a7ef748ab9b554a73db06c82a0b92263 ""
   "cv/honors.tex" 1495902870 2266 3e94067f50089651e9e698a08e9fbe59 ""
   "cv/patents.tex" 1495903154 919 bc91f136b61a6222063bfe963e249faa ""
-  "cv/projects.tex" 1496041599 4369 11a501b19faef1aaf5c64c74e5e3dc21 ""
+  "cv/projects.tex" 1496110116 4372 6a3232ee5b78e34c177e09450bad845b ""
   "cv/publications.tex" 1495959111 1771 7ee1401f1d689a76280f2f4eb1ce1657 ""
   "cv/research.tex" 1496036929 3041 a2ae0530f7769b164b906ad435ad25a2 ""
   "cv/skills.tex" 1495900586 1322 e3e758a518aaf2c5d60c6fa9e687f4af ""
   "cv/work.tex" 1495952981 1779 2ec7f6f75c748d6bd4f93a024fbeb55a ""
   "fontawesome.sty" 1470706146 84047 355f16a7bd7ed1782c4e1f3a0b78b931 ""
-  "resume.aux" 1496041659 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
-  "resume.out" 1496041659 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "resume.aux" 1496110147 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
+  "resume.out" 1496110147 0 d41d8cd98f00b204e9800998ecf8427e ""
   "resume.tex" 1496041630 3261 4b5ef34e8df9ac70b7e132f893c0238b ""
   (generated)
-  "resume.log"
-  "resume.aux"
   "resume.out"
   "resume.pdf"
+  "resume.aux"
+  "resume.log"
