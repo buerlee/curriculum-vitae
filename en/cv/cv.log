@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.6.30)  30 JUN 2017 18:06
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.6.30)  6 AUG 2017 16:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -790,25 +790,25 @@ LaTeX Info: Redefining \nameref on input line 74.
 
  (./cv/education.tex
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.95015pt on input line 29.
+(Font)              scaled to size 10.95015pt on input line 27.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.66507pt on input line 29.
+(Font)              scaled to size 7.66507pt on input line 27.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.47507pt on input line 29.
+(Font)              scaled to size 5.47507pt on input line 27.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.94983pt on input line 29.
+(Font)              scaled to size 10.94983pt on input line 27.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.66484pt on input line 29.
+(Font)              scaled to size 7.66484pt on input line 27.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.4749pt on input line 29.
+(Font)              scaled to size 5.4749pt on input line 27.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <9> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 29.
+ut line 27.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <8> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 29.
+ut line 27.
 ) (./cv/publications.tex
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 10.00015pt on input line 37.
@@ -827,7 +827,7 @@ LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 
 ]) (./cv/work.tex)
 (./cv/honors.tex) (./cv/extracurricular.tex) (./cv/skills.tex
-Overfull \hbox (41.09792pt too wide) in alignment at lines 10--38
+Overfull \hbox (41.09792pt too wide) in alignment at lines 10--48
 [] [] 
  []
 
@@ -846,6 +846,6 @@ Here is how much of TeX's memory you used:
  31608 multiletter control sequences out of 15000+600000
  7089 words of font info for 84 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 53i,12n,65p,10389b,429s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,12n,65p,10389b,433s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on cv.pdf (2 pages).
