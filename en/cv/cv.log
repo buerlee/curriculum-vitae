@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.6.30)  6 AUG 2017 16:03
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.6.30)  16 AUG 2017 12:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -809,7 +809,8 @@ LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <8> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
 ut line 27.
-) (./cv/publications.tex
+) (./cv/work.tex)
+(./cv/publications.tex
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 10.00015pt on input line 37.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
@@ -822,11 +823,11 @@ LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 6.9999pt on input line 37.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 4.99992pt on input line 37.
-)
-(./cv/patents.tex) (./cv/research.tex) (./cv/projects.tex [1
+) (./cv/patents.tex) (./cv/research.tex)
+(./cv/projects.tex [1
 
-]) (./cv/work.tex)
-(./cv/honors.tex) (./cv/extracurricular.tex) (./cv/skills.tex
+]) (./cv/honors.tex) (./cv/extracurricular.tex)
+(./cv/skills.tex
 Overfull \hbox (41.09792pt too wide) in alignment at lines 10--48
 [] [] 
  []
@@ -842,7 +843,7 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 102.
 Here is how much of TeX's memory you used:
  28560 strings out of 493706
  504534 string characters out of 6145769
- 622988 words of memory out of 5000000
+ 621988 words of memory out of 5000000
  31608 multiletter control sequences out of 15000+600000
  7089 words of font info for 84 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191

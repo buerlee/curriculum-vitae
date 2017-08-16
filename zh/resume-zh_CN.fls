@@ -256,6 +256,8 @@ INPUT cv/education.tex
 INPUT /usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 INPUT /usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 INPUT /usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+INPUT cv/work.tex
+INPUT cv/work.tex
 INPUT cv/publications.tex
 INPUT cv/publications.tex
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
@@ -275,8 +277,6 @@ INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT cv/projects.tex
 INPUT cv/projects.tex
-INPUT cv/work.tex
-INPUT cv/work.tex
 INPUT cv/honors.tex
 INPUT cv/honors.tex
 INPUT cv/extracurricular.tex

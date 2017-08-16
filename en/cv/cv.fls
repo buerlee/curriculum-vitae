@@ -162,6 +162,8 @@ INPUT cv/education.tex
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm
 INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm
+INPUT cv/work.tex
+INPUT cv/work.tex
 INPUT cv/publications.tex
 INPUT cv/publications.tex
 INPUT cv/patents.tex
@@ -170,8 +172,6 @@ INPUT cv/research.tex
 INPUT cv/research.tex
 INPUT cv/projects.tex
 INPUT cv/projects.tex
-INPUT cv/work.tex
-INPUT cv/work.tex
 INPUT cv/honors.tex
 INPUT cv/honors.tex
 INPUT cv/extracurricular.tex
