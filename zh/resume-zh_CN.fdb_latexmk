@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1507173248 "resume-zh_CN.tex" "resume-zh_CN.pdf" "resume-zh_CN" 1507173251
+["pdflatex"] 1507602865 "resume-zh_CN.tex" "resume-zh_CN.pdf" "resume-zh_CN" 1507602871
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -159,13 +159,13 @@
   "fontawesomesymbols-generic.tex" 1475881798 33234 a3a3e12d9315f667a3e24bd6b3d6058b ""
   "fontawesomesymbols-xeluatex.tex" 1475881798 45782 7166bfdff927bad3f81e302543d76c90 ""
   "linespacing_fix.sty" 1475881798 928 d7b2ee806f776f17eb0e9f4ff455a31b ""
-  "resume-zh_CN.aux" 1507173251 3710 eb11ae9cd37144376f10d877a1b0b984 ""
-  "resume-zh_CN.out" 1507173251 1419 89c6761aad1f2253ae9eb72cb0448006 ""
-  "resume-zh_CN.tex" 1504230208 937 cbacf61009fcec063b140139a5e87daa ""
+  "resume-zh_CN.aux" 1507602870 3710 eb11ae9cd37144376f10d877a1b0b984 ""
+  "resume-zh_CN.out" 1507602871 1419 89c6761aad1f2253ae9eb72cb0448006 ""
+  "resume-zh_CN.tex" 1507602863 938 81f30c54105809a0719d1b2829317201 ""
   "resume.cls" 1496121671 3441 b9fb5be333a1ba64b4f67f88f0f7e5a5 ""
   "zh_CN-Adobefonts_external.sty" 1475881798 1117 abbefe17b918f7a0071a2b71f38c0b7c ""
   (generated)
-  "resume-zh_CN.aux"
-  "resume-zh_CN.out"
   "resume-zh_CN.pdf"
+  "resume-zh_CN.aux"
   "resume-zh_CN.log"
+  "resume-zh_CN.out"
