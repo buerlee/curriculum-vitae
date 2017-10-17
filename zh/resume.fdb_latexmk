@@ -1,5 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1502006161 "resume.tex" "resume.pdf" "resume" 1502006162
+["pdflatex"] 1502006161 "/Users/yanshengjia/GitHub/curriculum-vitae/zh/resume.tex" "resume.pdf" "resume" 1508211498
+  "/Users/yanshengjia/GitHub/curriculum-vitae/zh/resume.tex" 1475881798 2594 7177b1d1fe127f70a128a11a25e2a3de ""
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -146,7 +147,7 @@
   "resume.out" 1502006162 718 18b434931fdb19b8b96fb737cef08c6e ""
   "resume.tex" 1475881798 2594 7177b1d1fe127f70a128a11a25e2a3de ""
   (generated)
-  "resume.log"
   "resume.aux"
   "resume.out"
+  "resume.log"
   "resume.pdf"
