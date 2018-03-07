@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1507602865 "resume-zh_CN.tex" "resume-zh_CN.pdf" "resume-zh_CN" 1507602871
+["pdflatex"] 1520433653 "resume-zh_CN.tex" "resume-zh_CN.pdf" "resume-zh_CN" 1520433656
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -150,7 +150,7 @@
   "cv/extracurricular.tex" 1498064478 663 5d6eded273922cd56bcddaea4a1b21cf ""
   "cv/honors.tex" 1502006494 545 7d81ab3a10c0aab9177ed2993e30daa8 ""
   "cv/patents.tex" 1496108262 219 7555886693c03d86af5119a335034ee7 ""
-  "cv/projects.tex" 1498817326 2742 c58cdf21c9d56eec9267ae7e1929c4a1 ""
+  "cv/projects.tex" 1520433626 2712 04ca9f6fcfc51d36ba828e81baf131a8 ""
   "cv/publications.tex" 1498817356 341 1ecff95744d56c514e588d7a28e80490 ""
   "cv/research.tex" 1502006377 891 c1d0b3fd9a4b3a71545ebfea3d1240b3 ""
   "cv/skills.tex" 1507173235 360 16706233eac5f64f48ad7ca9c730f487 ""
@@ -159,13 +159,13 @@
   "fontawesomesymbols-generic.tex" 1475881798 33234 a3a3e12d9315f667a3e24bd6b3d6058b ""
   "fontawesomesymbols-xeluatex.tex" 1475881798 45782 7166bfdff927bad3f81e302543d76c90 ""
   "linespacing_fix.sty" 1475881798 928 d7b2ee806f776f17eb0e9f4ff455a31b ""
-  "resume-zh_CN.aux" 1507602870 3710 eb11ae9cd37144376f10d877a1b0b984 ""
-  "resume-zh_CN.out" 1507602871 1419 89c6761aad1f2253ae9eb72cb0448006 ""
+  "resume-zh_CN.aux" 1520433656 3680 bab48820a985eacaf32b901ed3526579 ""
+  "resume-zh_CN.out" 1520433656 1418 fa54e1eb8bec9ba2a7a494c741e0a4b8 ""
   "resume-zh_CN.tex" 1507602863 938 81f30c54105809a0719d1b2829317201 ""
   "resume.cls" 1496121671 3441 b9fb5be333a1ba64b4f67f88f0f7e5a5 ""
   "zh_CN-Adobefonts_external.sty" 1475881798 1117 abbefe17b918f7a0071a2b71f38c0b7c ""
   (generated)
+  "resume-zh_CN.out"
   "resume-zh_CN.pdf"
   "resume-zh_CN.aux"
   "resume-zh_CN.log"
-  "resume-zh_CN.out"
