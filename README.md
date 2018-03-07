@@ -1,1 +1,3 @@
-# curriculum-vitae
+# Curriculum Vitae
+* English version
+* Chinese version
