@@ -1,0 +1,10 @@
+# Fdb version 3
+["pdflatex"] 1520434308 "work.tex" "work.pdf" "work" 1520434309
+  "/usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf" 1428852030 31983 18aeec08f48baa3cf3508d538dd5f459 ""
+  "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1467274296 3849859 c6167b22619bc0445aebbed3daebbd52 ""
+  "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
+  "work.aux" 1520434308 8 a94a2480d3289e625eea47cd1b285758 ""
+  "work.tex" 1520434307 2127 9844cb544be5573196480a25a7e2dc62 ""
+  (generated)
+  "work.pdf"
+  "work.log"
